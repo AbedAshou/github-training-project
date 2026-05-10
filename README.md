@@ -1,2 +1,1 @@
-# github-training-project
-new update
+# My Project
